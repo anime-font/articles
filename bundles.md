@@ -173,27 +173,57 @@ SCREENから3ファミリー16書体(以前からあるヒラギノ角ゴは省�
 メディバンペイント
 ------------------
 
-フォントワークスから19ファミリー20書体。ユーザー登録さえすれば無償で使用可能ですが，メディバンペイントのアプリケーション内でのみ使用可能です。
+フォントワークスから49ファミリー62書体。ユーザー登録さえすれば無償で使用可能ですが，メディバンペイントのアプリケーション内でのみ使用可能です。
 
-* アンチックセザンヌ Pro DB
+* Popフューリ Std B
+* アニト Std Relief
+* アンチックセザンヌ Pro M/DB
 * 大江戸勘亭流 Std E
 * 花風テクノ Std E
+* 花風ペン字体 Std M
+* 花風マーカー体 Std B
+* カラット Std UB
+* グレコ Std DB/B
+* くろかね Std EB
+* 古今江戸 Std EB
+* 古今髭 Std EB
+* ゴスペル Std EB
 * コミックミステリ Std DB
 * コミックレゲエ Std B
+* コメット Std B
 * シャドウ Std B
-* スーラ Pro DB
-* スキップ Std B
-* 筑紫Aオールド明朝 Pr6 B
+* シャドウTL Std B
+* スーラ Pro DB/B
+* スーラキャピー Pro DB/B
+* スキップ Std D/B
+* スランプ Std DB
+* 筑紫Aオールド明朝 Pr6 M/B
+* 筑紫明朝 Pr5 M/B
+* つばめ Std R
 * ドットゴシック16 Std M
-* ニューロダン Pro EB
+* ドット明朝16 Std M
+* ニューロダン Pro DB/EB
+* ニューシネマB Std D
+* パール Std L
+* ハミング Std B/E
+* ぶどう Std L
+* ベビポップ Std EB
+* 豊隷 Std EB
 * マティス Pro DB/EB
-* マティスえれがんと Pro DB
+* マティスえれがんと Pro DB/B
+* 万葉行書 Std E
 * 万葉古印ラージ Std B
+* 万葉草書 Std E
 * ユトリロ Pro M
+* ユールカ Std UB
+* ライラ Std DB
 * ラグランパンチ Std UB
+* ランパート Std EB
 * ランパートTL Std EB
-* ロダンわんぱく Pro DB
-* ロダンハッピー Pro DB
+* ロウディ Std EB
+* ロダンわんぱく Pro DB/B
+* ロダンハッピー Pro DB/B
+* ロックンロール Std DB
 
 [商用利用可能](https://medibangpaint.com/font/)。
 
