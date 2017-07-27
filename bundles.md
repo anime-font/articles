@@ -7,28 +7,33 @@
 Adobe Typekit
 -------------
 
-モリサワ，タイプバンク(リョービ)から20書体。加えて，源ノ角ゴシックや小塚ゴシック，平成書体などAdobe自身のフォントも利用可能です。
+モリサワ(タイプバンク, リョービ)から30書体。加えて，源ノ角ゴシックや小塚ゴシック，平成書体などAdobe自身のフォントも利用可能です。
 
 * リュウミン Pr6N L-KL
 * 太ミンA101 Pr6N B
-* 見出しミンMA31 Pr6N
+* 見出ミンMA31 Pr6N
 * 中ゴシックBBB Pr6N M
 * 太ゴB101 Pr6N B
-* 見出しゴMB31 Pr6N
+* 見出ゴMB31 Pr6N
 * じゅん Pro 101
-* TBシネマ丸ゴシック Std
-* TBちび丸ゴシックPlusK Pro R
+* UD新ゴ Pr6N L
+* UD黎ミン Pr6N L
+* UD新丸ゴ Pr6N L
 * Ro篠 Std M
 * Ro日活正楷書体 Std L
 * Roぶらっしゅ Std U
 * Roサン Std M
+* TBシネマ丸ゴシック Std
+* TBちび丸ゴシックPlusK Pro R
 * TBカリグラゴシック Std E
-* 漢字タイポス415 Std R
-* UD新ゴ Pr6N L
-* UD黎ミン Pr6N L
-* UD新丸ゴ Pr6N L
 * TB新聞明朝 Std L
 * TB新聞ゴシック Std M 
+* TBUDゴシック Std R/B/H
+* TBUD丸ゴシック Std R/B/H
+* TBUD明朝 Std M/H
+* 漢字タイポス48 Std R
+* 漢字タイポス412 Std R
+* 漢字タイポス415 Std R
 
 商用利用可能です。また，[ライセンス](https://helpx.adobe.com/jp/typekit/using/font-licensing.html)によると，ロゴの商標登録も可能なようです。
 
