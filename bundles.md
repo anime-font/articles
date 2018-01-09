@@ -116,6 +116,8 @@ Adobe Typekit
 * G-イワタ細教科書体 ProN
 * G-イワタ太教科書体 ProN
 
+商用利用可能(印刷物のみ)。
+[ライセンス](http://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=056694)
 
 一太郎2017 プレミアム/スーパープレミアム
 ----------------------------------------
