@@ -4,7 +4,7 @@
 アプリケーションにバンドルされるなどして，フォントベンダー以外のベンダーから提供されている商用和文フォントをまとめてみました。
 
 
-Adobe Typekit
+Adobe Fonts (旧:Typekit)
 -------------
 
 モリサワ(タイプバンク, リョービ)から30書体。
@@ -97,7 +97,7 @@ Adobe Typekit
 
 ほか，源ノ角ゴシックや小塚ゴシック，平成書体などAdobe自身のフォントも利用可能です。
 
-商用利用可能です。また，[ライセンス](https://helpx.adobe.com/jp/typekit/using/font-licensing.html)によると，ロゴの商標登録も可能なようです。
+商用利用可能です。また，[ライセンス](https://helpx.adobe.com/jp/fonts/using/font-licensing.html)によると，ロゴの商標登録も可能なようです。
 
 
 一太郎2018 プレミアム/スーパープレミアム
