@@ -100,6 +100,26 @@ Adobe Fonts (旧:Typekit)
 商用利用可能です。また，[ライセンス](https://helpx.adobe.com/jp/fonts/using/font-licensing.html)によると，ロゴの商標登録も可能なようです。
 
 
+一太郎2020 プラチナ
+-----------------
+
+モリサワ(と欣喜堂)から11ファミリー26書体。
+
+* リュウミン Pr6N L-KL/R-KL/M-KL/B-KL
+* UD黎ミン Pr6N L/R/M/B
+* UD新ゴ Pr6N L/R/M/DB
+* きざはし金陵 StdN M
+* A1明朝 Std B
+* 解ミン 宙 Std M
+* すずむし Std M
+* 正楷書CB1 Pr5 R
+* 隷書E1 Std R
+* リュウミンオールドがな L-KO/R-KO/M-KO/B-KO
+* ネオツデイ小がな L-KS/R-KS/M-KS/DB-KS
+
+商用利用可能(印刷物, PDF, 電子書籍のみ)。
+[ライセンス](http://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=057611)
+
 一太郎2019 プレミアム/スーパープレミアム
 ----------------------------------------
 
@@ -110,9 +130,8 @@ Adobe Fonts (旧:Typekit)
 * 秀英明朝 Pr6N L/M/B
 * 秀英角ゴシック金 StdN L/M/B
 
-商用利用可能。
+商用利用可能(印刷物, PDF, 電子書籍のみ)。
 [ライセンス](http://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=057356)
-
 
 一太郎2018 プレミアム/スーパープレミアム
 ----------------------------------------
@@ -130,7 +149,7 @@ Adobe Fonts (旧:Typekit)
 * G-イワタ細教科書体 ProN
 * G-イワタ太教科書体 ProN
 
-商用利用可能(印刷物のみ)。
+商用利用可能(印刷物, PDF, 電子書籍のみ)。
 [ライセンス](http://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=056694)
 
 一太郎2017 プレミアム/スーパープレミアム
