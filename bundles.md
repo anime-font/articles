@@ -100,6 +100,20 @@ Adobe Fonts (旧:Typekit)
 商用利用可能です。また，[ライセンス](https://helpx.adobe.com/jp/fonts/using/font-licensing.html)によると，ロゴの商標登録も可能なようです。
 
 
+一太郎2019 プレミアム/スーパープレミアム
+----------------------------------------
+
+大日本印刷から4ファミリー8書体。
+
+* 秀英初号明朝 StdN Hv
+* 秀英にじみ明朝 StdN L
+* 秀英明朝 Pr6N L/M/B
+* 秀英角ゴシック金 StdN L/M/B
+
+商用利用可能。
+[ライセンス](http://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=057356)
+
+
 一太郎2018 プレミアム/スーパープレミアム
 ----------------------------------------
 
