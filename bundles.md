@@ -56,7 +56,7 @@ Adobe Fonts (旧:Typekit)
 * 游明朝体 36ポかな R
 
 
-フォントワークスから7ファミリー12書体。
+フォントワークスから16ファミリー22書体。
 
 * セザンヌ ProN M
 * クレー Pro M/DB
@@ -65,6 +65,15 @@ Adobe Fonts (旧:Typekit)
 * 筑紫B丸ゴシック Std R/B
 * UD角ゴ\_ラージ Pr6N M/DB
 * UD丸ゴ\_ラージ Pr6N M/DB
+* スーラ ProN DB
+* ロダン ProN DB
+* クレー One Regular/SemiBold
+* ステッキ Regular
+* ランパート One Regular
+* トレイン One Regular
+* ロックンロール One Regular
+* ドットゴシック16 Regular
+* レゲエ One Regular
 
 
 視覚デザイン研究所から24ファミリー36書体。
@@ -93,6 +102,63 @@ Adobe Fonts (旧:Typekit)
 * V7丸ゴシック L/M/B/EB/U
 * V7明朝 L/M/B/EB/U
 * ヨタG M
+
+
+スキルインフォメーションズ(テクノアドバンス)から8ファミリー8書体。
+
+* TA-candy Regular
+* TA-F1ブロックライン Regular
+* TA-方縦M500 Regular
+* TA-方眼K500 Regular
+* TA-楷 Regular
+* TA-ことだま R
+* TA香蘭 Regular
+* TA-rb Regular
+
+
+凸版印刷から8ファミリー8書体。
+
+* 凸版文久ゴシック Pr6N R/DB
+* 凸版文久見出しゴシック Std EB
+* 凸版文久見出しゴシック StdN EB
+* 凸版文久見出し明朝 Std EB
+* 凸版文久見出し明朝 StdN EB
+* 凸版文久明朝 Pr6N R
+
+
+砧書体制作所から31ファミリー42書体。
+
+* Donguri R
+* どんぐり かな R
+* iroha 21popura StdN R
+* iroha 22momi StdN R
+* iroha 23kaede StdN R
+* iroha 24matu StdN R
+* iroha 25icho StdN R
+* iroha 26tubaki StdN R
+* iroha 27keyaki StdN R
+* iroha 28kiri StdN R
+* iroha 29ume StdN R
+* iroha 30momiji StdN R
+* iroha 31nire StdN R
+* iroha 32sakura かな R
+* iroha 32sakura StdN R
+* きりこ かな Black/Color1/Color2
+* 丸丸ゴシックALr/Sr StdN R
+* 丸丸ゴシックBLr/Sr StdN R
+* 丸丸ゴシックCLr/Sr StdN R
+* 丸明Fuji StdN R
+* 丸明Katura StdN R
+* 丸明Kiso StdN R
+* 丸明オールド StdN R
+* 丸明Shinano StdN R
+* 丸明Tikuma StdN R
+* 丸明Yoshino StdN R
+* 砧明朝体 StdN L/R/B
+* 令和かな R
+* 芯 StdN 6K/12K/24K/48K/150K
+* 山本庵クラシックStdN R
+* 山本庵StdN R
 
 
 ほか，源ノ角ゴシックや小塚ゴシック，平成書体などAdobe自身のフォントも利用可能です。
