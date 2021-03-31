@@ -235,7 +235,7 @@ Adobe Fonts (旧:Typekit)
 いずれのベンダーのフォントも商用利用可能ですが，これらのフォントを用いて作成したロゴの商標登録は禁止されています([モリサワ](http://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=055216)，[SCREEN](http://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=055220)，[DNP](http://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=055221)，[字游工房](http://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=055222)，[タイプバンク](http://support.justsystems.com/faq/1032/app/servlet/qadoc?QID=055223))。
 
 
-Windows 10 Fall Creators Update
+Windows 10 Fall Creators Update以降
 -------------------------------
 
 字游工房から2ファミリー7書体(Yu Gothic UIは除外)。
@@ -247,19 +247,7 @@ Windows 10 Fall Creators Update
 
 * UDデジタル教科書体 R/B (等幅, 英数プロポーショナル, 英数かなプロポーショナル)
 
-
-Microsoft Office
-----------------
-
-
-ごちうさアラーム
-----------------
-
-モリサワのフォントがパッケージに含まれています。
-
-* 丸フォーク Pro R
-
-macOS Sierra
+macOS Sierra以降
 ------------
 
 フォントワークスから3ファミリー6書体。
@@ -349,22 +337,3 @@ SCREENから3ファミリー16書体(以前からあるヒラギノ角ゴは省�
 * ロックンロール Std DB
 
 [商用利用可能](https://medibangpaint.com/font/)。
-
-
-筆王
-----
-
-
-筆ぐるめ
---------
-
-筆まめ
-------
-
-
-リゼロアラーム
---------------
-
-モリサワのフォントがパッケージに含まれています。
-
-* リュウミン Pro H-KL
