@@ -100,6 +100,25 @@ Adobe Fonts (旧:Typekit)
 商用利用可能です。また，[ライセンス](https://helpx.adobe.com/jp/fonts/using/font-licensing.html)によると，ロゴの商標登録も可能なようです。
 
 
+一太郎2021 プラチナ
+-----------------
+
+フォントワークスから17書体。
+
+* 筑紫明朝 Pr6N L
+* 筑紫Aオールド明朝 Pr6N L/M/E
+* 筑紫アンティークL明朝 Std L
+* 筑紫A見出ミン Std E
+* 筑紫ゴシック Pro B
+* 筑紫オールドゴシック Std B
+* 筑紫アンティークLゴシック Std B
+* 筑紫A丸ゴシック Std R/B
+* UD明朝 Pr6N L/B
+* UD角ゴ_ラージ Pr6N B
+* UD角ゴ_スモール Pr6N R
+* UD丸ゴ_ラージ Pr6N B
+* UD丸ゴ_スモール Pr6N M
+
 一太郎2020 プラチナ
 -----------------
 
